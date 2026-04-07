@@ -1,0 +1,26 @@
+{
+  "geo": {
+    "w_gpr": 0.3067,
+    "w_epu": 0.2852,
+    "w_vix": 0.408,
+    "actifs_inclus": [
+      "gold",
+      "oil",
+      "defense",
+      "silver"
+    ]
+  },
+  "fin": {
+    "w_gpr": 0.4549,
+    "w_epu": 0.4491,
+    "w_vix": 0.096,
+    "actifs_inclus": [
+      "bonds",
+      "dollar",
+      "btc"
+    ]
+  },
+  "alpha_nlp": 0.2,
+  "methode": "U-MIDAS Ridge (Foroni, Marcellino & Schumacher, 2015)",
+  "periode_calibration": "1990-01-01 to 2024-12-31"
+}

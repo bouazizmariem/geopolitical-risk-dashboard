@@ -1,0 +1,58 @@
+{
+  "gold": {
+    "w_gpr": 0.018,
+    "w_vix": 0.8926,
+    "w_epu": 0.0894,
+    "r2": 0.0019,
+    "rmse": 4.6321,
+    "dominant": "VIX"
+  },
+  "oil": {
+    "w_gpr": 0.35,
+    "w_vix": 0.45,
+    "w_epu": 0.2,
+    "r2": 0.0519,
+    "rmse": 10.5763,
+    "dominant": "VIX"
+  },
+  "defense": {
+    "w_gpr": 0.35,
+    "w_vix": 0.45,
+    "w_epu": 0.2,
+    "r2": 0.507,
+    "rmse": 4.1711,
+    "dominant": "VIX"
+  },
+  "silver": {
+    "w_gpr": 0.0,
+    "w_vix": 0.0,
+    "w_epu": 1.0,
+    "r2": 0.0694,
+    "rmse": 8.3907,
+    "dominant": "EPU"
+  },
+  "bonds": {
+    "w_gpr": 1.0,
+    "w_vix": 0.0,
+    "w_epu": 0.0,
+    "r2": 0.0474,
+    "rmse": 8.3818,
+    "dominant": "GPR"
+  },
+  "dollar": {
+    "w_gpr": 0.0,
+    "w_vix": 1.0,
+    "w_epu": 0.0,
+    "r2": 0.0043,
+    "rmse": 2.2674,
+    "dominant": "VIX"
+  },
+  "btc": {
+    "w_gpr": 0.0,
+    "w_vix": 0.0,
+    "w_epu": 1.0,
+    "r2": 0.0468,
+    "rmse": 19.624,
+    "dominant": "EPU"
+  }
+}
